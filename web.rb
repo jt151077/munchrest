@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, jeremy heroku rocks, even more!!!"
+  "Hello, jeremy and richard heroku rocks, even more!!!"
 end
