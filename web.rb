@@ -10,7 +10,7 @@ configure do
       conn = Mongo::Connection.from_uri(ENV['MONGOLAB_URI'])
       config.master = conn.db(uri.path.gsub(/^\//, ''))
     else
-      name = "my_local_development_database"
+      name = "munchobserver_app"
       host = "localhost"
       config.master = Mongo::Connection.new.db(name)
     end
