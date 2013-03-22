@@ -2,6 +2,7 @@ require 'sinatra'
 require 'mongoid'
 require 'digest'
 require 'fileutils'
+require 'uri'
 
 configure do
   Mongoid.configure do |config|

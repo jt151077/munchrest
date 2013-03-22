@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="599cdb91-9200-4aa7-b7fc-9ddf00d3dcd5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.rb" afterPath="$PROJECT_DIR$/web.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="munchrest.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="599cdb91-9200-4aa7-b7fc-9ddf00d3dcd5" time="1363932859246" ignored="false" />
-    <file path="/Gemfile" changelist="599cdb91-9200-4aa7-b7fc-9ddf00d3dcd5" time="1363956690130" ignored="false" />
+    <file path="/Gemfile" changelist="599cdb91-9200-4aa7-b7fc-9ddf00d3dcd5" time="1363957815576" ignored="false" />
     <file path="/web.rb" changelist="599cdb91-9200-4aa7-b7fc-9ddf00d3dcd5" time="1363957733388" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +26,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="web.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="39" selection-start="185" selection-end="185" vertical-scroll-proportion="0.15748031">
+            <state line="4" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="24" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
+            <state line="5" column="110" selection-start="146" selection-end="146" vertical-scroll-proportion="0.098425195">
               <folding />
             </state>
           </provider>
@@ -89,8 +90,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/mongoid.yml" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/web.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -362,13 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
@@ -385,7 +379,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="39" selection-start="185" selection-end="185" vertical-scroll-proportion="0.15748031">
+        <state line="4" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="110" selection-start="146" selection-end="146" vertical-scroll-proportion="0.098425195">
           <folding />
         </state>
       </provider>
